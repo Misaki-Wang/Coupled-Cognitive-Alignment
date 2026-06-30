@@ -2,8 +2,6 @@
 
 <h1>Human Modeling Meets AI Metacognition</h1>
 
-<hr>
-
 <h2>Toward Coupled Cognitive Alignment for Interactive Agents</h2>
 
 <p>Yaochen Wang<sup>1</sup>, Ming Li<sup>1,2</sup>, Xirui Li<sup>2</sup>, Tianyi Zhou<sup>1</sup></p>
