@@ -1,15 +1,16 @@
-# Human Modeling Meets AI Metacognition
+<div align="center">
 
-**Authors:** Yaochen Wang<sup>1</sup>, Ming Li<sup>1,2</sup>, Xirui Li<sup>2</sup>, Tianyi Zhou<sup>1</sup>
+<h1>Human Modeling Meets AI Metacognition</h1>
 
-**Affiliations:**
+<hr>
 
-<sup>1</sup> Mohamed bin Zayed University of Artificial Intelligence  
-<sup>2</sup> University of Maryland
+<h2>Toward Coupled Cognitive Alignment for Interactive Agents</h2>
 
-This repository hosts the paper:
+<p>Yaochen Wang<sup>1</sup>, Ming Li<sup>1,2</sup>, Xirui Li<sup>2</sup>, Tianyi Zhou<sup>1</sup></p>
 
-**Human Modeling Meets AI Metacognition: Toward Coupled Cognitive Alignment for Interactive Agents**
+<p><sup>1</sup>Mohamed bin Zayed University of Artificial Intelligence &nbsp;&nbsp; <sup>2</sup>University of Maryland</p>
+
+</div>
 
 The paper introduces **Coupled Cognitive Alignment (CCA)**, a research framework for building interactive AI agents that do more than produce correct answers. CCA argues that agents should decide *how to interact* by jointly reasoning about:
 
