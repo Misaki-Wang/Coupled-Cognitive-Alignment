@@ -1,5 +1,12 @@
 # Human Modeling Meets AI Metacognition
 
+**Authors:** Yaochen Wang<sup>1</sup>, Ming Li<sup>1,2</sup>, Xirui Li<sup>2</sup>, Tianyi Zhou<sup>1</sup>
+
+**Affiliations:**
+
+<sup>1</sup> Mohamed bin Zayed University of Artificial Intelligence  
+<sup>2</sup> University of Maryland
+
 This repository hosts the paper:
 
 **Human Modeling Meets AI Metacognition: Toward Coupled Cognitive Alignment for Interactive Agents**
